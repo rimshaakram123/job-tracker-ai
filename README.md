@@ -76,23 +76,8 @@ This platform centralizes everything into one clean dashboard and adds AI-powere
    npm install
    npm run dev
    job-tracker-ai/
-├── client/                   # React frontend
-│   ├── src/
-│   │   ├── components/       # Reusable UI components
-│   │   ├── pages/            # Route pages
-│   │   ├── context/          # React Context (auth)
-│   │   ├── services/         # API + AI service layers
-│   │   └── types/            # TypeScript types
-│   └── package.json
-├── server/                   # Node.js backend
-│   ├── config/               # DB connection
-│   ├── controllers/          # Route handlers
-│   ├── models/               # Mongoose schemas
-│   ├── routes/               # API routes
-│   ├── middleware/           # Auth middleware
-│   ├── utils/                # AI helpers
-│   └── server.js
-└── .gitignore
+<img width="339" height="277" alt="{F194E701-AA4E-4305-8C67-3A36E903C6D9}" src="https://github.com/user-attachments/assets/86df438c-6364-4865-864f-4c317b0a6ca6" />
+
 🎓 Academic Context
 Developed as a personal project demonstrating full-stack development with modern React, TypeScript, and AI integration.
 👤 Author
