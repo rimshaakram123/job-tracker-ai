@@ -76,14 +76,28 @@ This platform centralizes everything into one clean dashboard and adds AI-powere
    npm install
    npm run dev
    job-tracker-ai/
-<img width="339" height="277" alt="{F194E701-AA4E-4305-8C67-3A36E903C6D9}" src="https://github.com/user-attachments/assets/86df438c-6364-4865-864f-4c317b0a6ca6" />
+<img width="409" height="512" alt="{885E5A5B-CE30-418F-89B9-30B2F7278164}" src="https://github.com/user-attachments/assets/40e96c4c-1d61-4e51-9bc5-685e3c9f8325" />
 
-🎓 Academic Context
+---
+
+## 🎓 Academic Context
+
 Developed as a personal project demonstrating full-stack development with modern React, TypeScript, and AI integration.
-👤 Author
-Rimsha Akram — @rimshaakram123
+
+---
+
+## 👤 Author
+
+**Rimsha Akram** — [@rimshaakram123](https://github.com/rimshaakram123)
 
 Software Engineering student at Chengdu Neusoft University, focused on full-stack development and AI/ML.
 
-📄 License
-This project is for educational and personal use
+---
+
+## 📄 License
+
+This project is for educational and personal use.
+
+---
+
+⭐ **If you find this project useful, please consider giving it a star!**
